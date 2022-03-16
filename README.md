@@ -1,0 +1,5 @@
+# Adobe XD from Beginner to Expert in 30 days
+
+Copyright C 2022 by Hillodesign All rights reserved.In accordance with the U.S. Copyright Act of 1976, the scanning, uploading, and electronic sharing of any part of this book without the persmission of the punblisher constitute unlawful piracy and theft of the author's intellectual property. If you would like to use material from the book (other than for review purposes), prior written permission must be obtained by contacting the publisher at jaemin@hillodesign.com. Thank you for your support of the author's rights.
+
+## Looking for a technical book to help you learn the ins and out of Adobe XD? Coming from Adobe Illustrator and just trying to understand the wonderful additional features that Adobe XD has for store? Go from Beginner to Expert with Adobe XD in 30 days!
